@@ -24,6 +24,8 @@
     
     NSLog(@"为什么我的仓库就是push不到GitHub上呢? -- 4:40");
     
+    NSLog(@"改一下GitHub上的仓库名字,就可以push了,push问题解决了! -- 6:31");
+    
 }
 
 - (void)didReceiveMemoryWarning {
