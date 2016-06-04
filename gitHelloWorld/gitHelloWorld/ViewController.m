@@ -20,6 +20,8 @@
     
     NSLog(@"Hello GitHub!");
     
+    NSLog(@"Test GitHub Push -- 2:45");
+    
 }
 
 - (void)didReceiveMemoryWarning {
