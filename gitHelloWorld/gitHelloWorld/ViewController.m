@@ -22,6 +22,8 @@
     
     NSLog(@"Test GitHub Push -- 2:45");
     
+    NSLog(@"为什么我的仓库就是push不到GitHub上呢? -- 4:40");
+    
 }
 
 - (void)didReceiveMemoryWarning {
