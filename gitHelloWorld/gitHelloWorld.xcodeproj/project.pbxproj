@@ -13,6 +13,7 @@
 		041AD1921D02A5E800C3175E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041AD1901D02A5E800C3175E /* Main.storyboard */; };
 		041AD1941D02A5E800C3175E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041AD1931D02A5E800C3175E /* Assets.xcassets */; };
 		041AD1971D02A5E800C3175E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041AD1951D02A5E800C3175E /* LaunchScreen.storyboard */; };
+		048E83EE1D02ED440096CE69 /* GitLevel3.m in Sources */ = {isa = PBXBuildFile; fileRef = 048E83ED1D02ED440096CE69 /* GitLevel3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		041AD1931D02A5E800C3175E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		041AD1961D02A5E800C3175E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		041AD1981D02A5E800C3175E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		048E83EC1D02ED440096CE69 /* GitLevel3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitLevel3.h; sourceTree = "<group>"; };
+		048E83ED1D02ED440096CE69 /* GitLevel3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GitLevel3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				041AD18B1D02A5E800C3175E /* AppDelegate.m */,
 				041AD18D1D02A5E800C3175E /* ViewController.h */,
 				041AD18E1D02A5E800C3175E /* ViewController.m */,
+				048E83EC1D02ED440096CE69 /* GitLevel3.h */,
+				048E83ED1D02ED440096CE69 /* GitLevel3.m */,
 				041AD1901D02A5E800C3175E /* Main.storyboard */,
 				041AD1931D02A5E800C3175E /* Assets.xcassets */,
 				041AD1951D02A5E800C3175E /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				041AD18F1D02A5E800C3175E /* ViewController.m in Sources */,
+				048E83EE1D02ED440096CE69 /* GitLevel3.m in Sources */,
 				041AD18C1D02A5E800C3175E /* AppDelegate.m in Sources */,
 				041AD1891D02A5E800C3175E /* main.m in Sources */,
 			);
@@ -298,6 +304,7 @@
 				041AD19D1D02A5E800C3175E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
